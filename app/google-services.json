@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "774232709163",
+    "firebase_url": "https://febwhatsapp.firebaseio.com",
+    "project_id": "febwhatsapp",
+    "storage_bucket": "febwhatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774232709163:android:626cefe41b53e008",
+        "android_client_info": {
+          "package_name": "com.example.dell.a18febwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774232709163-nrkrouu58qn9e89afo5sn8vgt4905i1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.a18febwhatsapp",
+            "certificate_hash": "fc0d51375a8afe6a9517db644d56d84bf7fe15d0"
+          }
+        },
+        {
+          "client_id": "774232709163-d15uqra6bfprngh1dnc6vah5svm82onr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0efIonhox2kl2OeDICOFcjiyctsWzcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774232709163-d15uqra6bfprngh1dnc6vah5svm82onr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
