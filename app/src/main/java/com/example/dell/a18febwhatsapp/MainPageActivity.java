@@ -45,6 +45,9 @@ public class MainPageActivity extends AppCompatActivity {
         @Override
         public void onClick(View v) {
 
+            Intent intent = new Intent(getApplicationContext(),FindUserActivity.class);
+            startActivity(intent);
+            finish();
         }
     });
 

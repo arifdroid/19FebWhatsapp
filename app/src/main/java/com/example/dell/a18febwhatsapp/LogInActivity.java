@@ -146,6 +146,10 @@ public class LogInActivity extends AppCompatActivity {
         });
 
 
+
+
+
+
     }
     // 3rd
     private void userIsLoggedIn() {
